@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 llm = ChatGroq(
-    groq_api_key='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',
+    groq_api_key=' ',
     model_name="llama3-70b-8192",
     temperature=0.6,
     max_tokens=1000)
